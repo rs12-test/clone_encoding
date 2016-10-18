@@ -1,0 +1,6 @@
+[submodule "subm1"]
+	path = simple1
+	url = git@github.com:rs12-test/simple1.git
+[submodule "encod"]
+	path = simple1_encoding
+	url = git@github.com:rs12-test/simple1_encoding.git
